@@ -16,7 +16,6 @@
     /* Sets the font size to 16px */
     line-height: var(--line-height);
     /* Sets the line-height to 1.6 */
-    background-color: #cccccc;
   }
   header {
     font-family: 'Lato', sans-serif;
